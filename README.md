@@ -20,4 +20,4 @@ Get the Host IP address from the server.py and enter it on client_android.py and
 Select the file which you want to transfer on server_WifiXfer.py
 Multiple files can be selected.
 
-(Working on Android app to send and recieve files from PC/Laptop)
+(Working on Android to send and recieve files from PC/Laptop)
